@@ -1,3 +1,14 @@
 .header {
   height: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.navList {
+  list-style-type: none;
+  display: flex;
+  gap: 1.5rem;
 }
