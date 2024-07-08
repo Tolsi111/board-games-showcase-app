@@ -10,3 +10,14 @@
 .link {
   text-decoration: none;
 }
+
+.gameIcon {
+  height: 80px;
+  width: 80px;
+  border-radius: 100%;
+  object-fit: cover;
+
+  position: relative;
+  top: 32px;
+  margin-left: 10px;
+}
